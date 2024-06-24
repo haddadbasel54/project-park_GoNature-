@@ -1,0 +1,66 @@
+#availabilityButton {
+    -fx-background-color: #5cb85c; /* Green color */
+    -fx-text-fill: white; /* White text color */
+}
+
+#availabilityButton:hover {
+    -fx-background-color: #4cae4c; /* Darker green color on hover */
+}
+
+#registerUnplannedButton {
+    -fx-background-color: #f0ad4e; /* Orange color */
+    -fx-text-fill: white; /* White text color */
+}
+
+#registerUnplannedButton:hover {
+    -fx-background-color: #ec971f; /* Darker orange color on hover */
+}
+
+#registerPlannedButton {
+    -fx-background-color: #337ab7; /* Blue color */
+    -fx-text-fill: white; /* White text color */
+}
+
+#registerPlannedButton:hover {
+    -fx-background-color: #286090; /* Darker blue color on hover */
+}
+#logoutButton {
+    -fx-background-color: #FF5722; /* Orange background color */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14.0px; /* Font size */
+    -fx-font-weight: bold; /* Font weight */
+    -fx-padding: 8.0px 16.0px; /* Padding */
+    -fx-border-color: transparent; /* Transparent border color */
+    -fx-border-radius: 5.0px; /* Border radius */
+    -fx-background-radius: 5.0px; /* Background radius */
+    -fx-cursor: hand; /* Cursor style */
+}
+
+#logoutButton:hover {
+    -fx-background-color: #E64A19; /* Darker orange background color on hover */
+}
+
+#exitButton {
+    -fx-background-color: #f44336; /* Red background color */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14.0px; /* Font size */
+    -fx-font-weight: bold; /* Font weight */
+    -fx-padding: 8.0px 16.0px; /* Padding */
+    -fx-border-color: transparent; /* Transparent border color */
+    -fx-border-radius: 50.0%; /* Make the button circular */
+    -fx-background-radius: 50.0%; /* Make the background circular */
+    -fx-cursor: hand; /* Cursor style */
+}
+
+#exitButton:hover {
+    -fx-background-color: #d32f2f; /* Darker red background color on hover */
+}
+#signexitingButton {
+  -fx-background-color: #4cafd5; /* Yellow color */
+  -fx-text-fill: white; /* White text color */
+
+}
+
+.signexitingButton:hover {
+  -fx-background-color: #008080; /* Slightly darker yellow on hover */
+}

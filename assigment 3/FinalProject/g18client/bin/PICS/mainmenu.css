@@ -1,0 +1,51 @@
+#employeeButton {
+    -fx-background-color: #2ecc71; /* Emerald Green Background Color */
+    -fx-text-fill: white; /* Text Color */
+    -fx-font-size: 16.0px; /* Font Size */
+    -fx-padding: 12.0px 24.0px; /* Padding */
+    -fx-background-radius: 25.0px; /* Border Radius */
+    -fx-border-color: transparent; /* Transparent Border Color */
+    -fx-cursor: hand; /* Cursor Style */
+    -fx-font-family: "Arial"; /* Font Family */
+    -fx-font-weight: bold; /* Font Weight */
+    -fx-effect: dropshadow( gaussian , rgba(0.0,0.0,0.0,0.5) , 10.0,0.0,2.0,2.0 ); /* Drop Shadow Effect */
+}
+
+#employeeButton:hover {
+    -fx-background-color: #27ae60; /* Darker Emerald Green Hover Background Color */
+}
+
+/* Traveler Button Style */
+#travelerButton {
+    -fx-background-color: #3498db; /* Dodger Blue Background Color */
+    -fx-text-fill: white; /* Text Color */
+    -fx-font-size: 16.0px; /* Font Size */
+    -fx-padding: 12.0px 24.0px; /* Padding */
+    -fx-background-radius: 25.0px; /* Border Radius */
+    -fx-border-color: transparent; /* Transparent Border Color */
+    -fx-cursor: hand; /* Cursor Style */
+    -fx-font-family: "Arial"; /* Font Family */
+    -fx-font-weight: bold; /* Font Weight */
+    -fx-effect: dropshadow( gaussian , rgba(0.0,0.0,0.0,0.5) , 10.0,0.0,2.0,2.0 ); /* Drop Shadow Effect */
+}
+
+#traveler-button:hover {
+    -fx-background-color: #2980b9; /* Darker Dodger Blue Hover Background Color */
+}
+/* Exit Button Style */
+#exitButton {
+    -fx-background-color: #e74c3c; /* Alizarin Background Color */
+    -fx-text-fill: white; /* Text Color */
+    -fx-font-size: 16.0px; /* Font Size */
+    -fx-padding: 12.0px 24.0px; /* Padding */
+    -fx-background-radius: 25.0px; /* Border Radius */
+    -fx-border-color: transparent; /* Transparent Border Color */
+    -fx-cursor: hand; /* Cursor Style */
+    -fx-font-family: "Arial"; /* Font Family */
+    -fx-font-weight: bold; /* Font Weight */
+    -fx-effect: dropshadow( gaussian , rgba(0.0,0.0,0.0,0.5) , 10.0,0.0,2.0,2.0 ); /* Drop Shadow Effect */
+}
+
+#exitButton:hover {
+    -fx-background-color: #c0392b; /* Darker Alizarin Hover Background Color */
+}
