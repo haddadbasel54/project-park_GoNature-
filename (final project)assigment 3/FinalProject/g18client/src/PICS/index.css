@@ -1,0 +1,8 @@
+
+
+.combo-box .list-cell {
+    -fx-text-fill: red; /* Set dropdown list item text color to black */
+}
+.text-field{
+	-fx-text-fill:red;
+}

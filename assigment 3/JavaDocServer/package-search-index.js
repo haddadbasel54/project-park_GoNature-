@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"GoNature"},{"l":"gui"},{"l":"neededclasses"},{"l":"Server"}]
